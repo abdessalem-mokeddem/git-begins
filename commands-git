@@ -2,3 +2,4 @@ git clone <lien du répertoire github a cloner >
 git add < nom du fichier ou du dossier >
 git commit -m "commentaire"
 git push https://<token>@github/<nom d'utilisateur github>/<nom du répertoire>.git
+git pull https://<token>@github/<nom d'utilisateur github>/<nom du répertoire>.git
