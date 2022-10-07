@@ -3,3 +3,6 @@ git add < nom du fichier ou du dossier >
 git commit -m "commentaire"
 git push https://<token>@github/<nom d'utilisateur github>/<nom du répertoire>.git
 git pull https://<token>@github/<nom d'utilisateur github>/<nom du répertoire>.git
+git branch “add-create-branch-command"
+git checkout "nom de la branche"
+
